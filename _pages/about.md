@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: Haoyu-Niu.png
+  image: hao.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>BLOC 221E</p>
