@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>College Station, Texas, 77845</p>
+    <p>BLOC 221E</p>
+    <p>155 Ireland Street</p>
+    <p>College Station, Texas, 77843</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
