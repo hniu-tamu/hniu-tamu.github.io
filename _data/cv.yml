@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Haoyu Niu
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th March
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: University of California, Merced, USA
+      year: 2022
       description:
         - Description 1.
         - Description 2.
