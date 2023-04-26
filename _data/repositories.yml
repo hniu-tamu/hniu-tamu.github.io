@@ -3,8 +3,8 @@ github_users:
   - torvalds
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - hniu-tamu/Modern-Computer-Vision-with-PyTorch
+  - hniu-tamu/Lihang
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
