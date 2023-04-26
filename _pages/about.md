@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Research Engineer.
 
 profile:
   align: right
   image: 2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>BLOC 221E</p>
-    <p>155 Ireland Street</p>
+    <p>BLOC 221E,</p>
+    <p>155 Ireland Street,</p>
     <p>College Station, Texas, 77843</p>
 
 news: true  # includes a list of news items
@@ -18,8 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Howdy! I am a Research Engineer in the [Institute of Data Science](https://tamids.tamu.edu/) at the [Texas A&M University, College Station](https://www.tamu.edu/). My research Interests include Machine Learning, Computer vision, and Robotics. More specifically, I am interested in applying big data, deep learning, and remote sensing technology for data analysis. 
