@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cotton Water Stress
-description: a project with a background image
-img: assets/img/12.jpg
+title: project 1
+description: a project for cotton water stress analysis
+img: assets/img/cotton.jpg
 importance: 1
 category: work
 ---
