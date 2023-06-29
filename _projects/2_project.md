@@ -2,22 +2,16 @@
 layout: page
 title: project 2
 description: a project for evapotranspiration (ET) estimation 
-img: assets/img/3.jpg
+img: assets/img/et.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Evapotranspiration (ET) estimation is important for precision agriculture water management. Mapping the ET temporally and spatially can identify variations in the field so that it is useful for evaluating soil moisture, and assessing crop water status. ET estimation can also benefit the water resources management and weather forecast. Here I introduce one of my previous ET papers. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+The abstract is shown here:
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Evapotranspiration (ET) estimation is important agricultural research in many regions because of the water scarcity, growing population, and climate change. ET can be analyzed as the sum of evaporation from the soil and transpiration from the crops to the atmosphere. The accurate estimation and mapping of ET are necessary for crop water management. One traditional method is to use the crop coefficient (Kc) and reference ET (ETo) to estimate actual ET. With the advent of satellite technology, remote sensing images can provide spatially distributed measurements. Satellite images are used to calculate the Normalized Difference Vegetation Index (NDVI). The relation between NDVI and Kc is used to generate a new Kc. The spatial resolution of multispectral satellite images, however, is in the range of meters, which is often not enough for crops with clumped canopy structures, such as trees and vines. Moreover, the frequency of satellite overpasses is not high enough to meet the research or water management needs. The Unmanned Aerial Vehicles (UAVs) can help mitigate these spatial and temporal challenges. Compared with satellite imagery, the spatial resolution of UAV images can be as high as centimeter-level. In this study, a regression model was developed using the Deep Stochastic Configuration Networks (DeepSCNs). Actual evapotranspiration was estimated and compared with lysimeter data in an experimental pomegranate orchard. The UAV imagery provided a spatial and tree-by-tree view of ET distribution.
     ---
 
 <div class="row">
