@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Research Engineer.
 
 profile:
   align: right
-  image: 2.jpg
+  image: hao.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>BLOC 221E,</p>
