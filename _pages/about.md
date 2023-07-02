@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Research Engineer.
+subtitle: <a href='https://www.tamu.edu/'>Texas A&M University, College Station</a>. Research Engineer.
 
 profile:
   align: right
