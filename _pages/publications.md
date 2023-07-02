@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected publications by categories in reversed chronological order. For a full list of Haoyu's publication. Please refer to the [Haoyu's Google Scholar](https://scholar.google.com/citations?user=x-xBjiwAAAAJ&hl=en&oi=ao)
+description: Selected publications by categories in reversed chronological order.
 years: [2022, 2021, 2020, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
