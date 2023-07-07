@@ -26,7 +26,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            In 23S, I developed a SAP (Simple-As-Possible computer) program simulator, which enabled me to autograde and create a SAP programming assignment.
+            Participants will explore topics such as image classification, transfer learning, object detection, segmentation, and real-world projects. Students will gain practical skills in implementing algorithms such as ResNet, VGG, YOLO, DETR, Mask RCNN, and UNet.
           </div>
           <div class="col-sm-3">
             <a href="/projects/sapsim">SAPsim</a>&nbsp;(<a href="https://github.com/jesse-wei/SAPsim">GitHub</a>)
