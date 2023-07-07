@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">UNC</a></h3>
+<h3 style="color: #4b9cd3;" id="tamu"><a href="https://www.tamu.edu/">TAMU</a></h3>
 <!-- COMP 311 (Computer Organization) -->
 <div class="card mt-3">
   <div class="p-3">
