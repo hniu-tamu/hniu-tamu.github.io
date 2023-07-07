@@ -13,8 +13,8 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Computer Organization</h5>
-        <h6 class="card-subtitle font-italic">Fall 2022 and Spring 2023: Head UTA</h6>
+        <h5 id="comp311" class="card-title">Advanced Computer Vision</h5>
+        <h6 class="card-subtitle font-italic">Summer 2023</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
