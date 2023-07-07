@@ -69,7 +69,7 @@ nav_order: 5
           </div>
         </div>
       </li>
-      <li class="list-group-item">
+<!--      <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
             I received the <a href="https://cs.unc.edu/about/awards/department-awards/pozefsky-la-award/">Diane Pozefsky Learning Assistant Award</a>.
@@ -77,10 +77,10 @@ nav_order: 5
           <div class="col-sm-3">
           </div>
         </div>
-      </li>
+      </li> -->
     </ul>
   </div>
-</div>
+</div> 
 
 <!-- COMP 210 (Data Structures and Analysis) -->
 <div class="card mt-3">
