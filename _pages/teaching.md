@@ -13,7 +13,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="ecen689" class="card-title">Advanced Computer Vision</h5>
+        <h5 id="ecen689" class="card-title"><a href="https://www.cs.unc.edu/~kakiryan/teaching/summer-210.html">Advanced Computer Vision</a></h5>
         <h6 class="card-subtitle font-italic">Summer 2023</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
