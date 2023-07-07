@@ -8,17 +8,17 @@ nav_order: 5
 ---
 
 <h3 style="color: #4b9cd3;" id="tamu"><a href="https://www.tamu.edu/">TAMU</a></h3>
-<!-- COMP 311 (Computer Organization) -->
+<!-- COMP ECEN 689 (Computer Organization) -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Advanced Computer Vision</h5>
+        <h5 id="ecen689" class="card-title">Advanced Computer Vision</h5>
         <h6 class="card-subtitle font-italic">Summer 2023</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          311
+          ECEN 689
         </span>
       </div>
     </div>
@@ -46,7 +46,7 @@ nav_order: 5
             I created a resource that implements and explains 12 circuits from the course.
           </div>
           <div class="col-sm-3">
-            <a href="https://github.com/jesse-wei/COMP311-circuits">COMP 311 circuits</a>
+            <a href="https://github.com/jesse-wei/COMP311-circuits">ECEN 689</a>
           </div>
         </div>
       </li>
