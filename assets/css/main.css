@@ -183,6 +183,15 @@ blockquote {
   display: flex;
   align-items: center;
 }
+.card .list-group-item {
+  background-color: var(--global-card-bg-color);
+  border-color: var(--global-divider-color);
+}
+.card .badge {
+  background-color: var(--global-theme-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
 .citation,
 .citation-number {
