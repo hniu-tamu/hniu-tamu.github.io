@@ -36,13 +36,6 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I added and wrote the autograder for a new part of the ALU implementation assignment, in which students implement flag detection in the ALU.
-          </div>
-        </div>
-      </li>
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
             I created a resource that implements and explains 12 circuits from the course.
           </div>
           <div class="col-sm-3">
