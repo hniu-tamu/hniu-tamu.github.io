@@ -58,7 +58,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Participants will explore topics such as image classification, transfer learning, object detection, segmentation, and real-world projects. Students will gain practical skills in implementing algorithms such as ResNet, VGG, YOLO, DETR, Mask RCNN, and UNet.
+            An introduction to the underlying concepts of computer vision and image understanding. The course will consider fundamental topics, including image formation, edge detection, texture analysis, color, segmentation, shape analysis, detection of objects in images and high level image representation.
           </div>
           <div class="col-sm-3">
             <a href="https://github.com/jesse-wei/COMP311-circuits">CSCI 631</a>
