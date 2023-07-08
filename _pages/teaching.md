@@ -37,7 +37,9 @@ nav_order: 5
   </div>
 </div> 
 
-<h3 style="color: #4b9cd3;" id="rit"><a href="https://www.tamu.edu/">RIT</a></h3>
+<br>
+
+<h3 style="color: #4b9cd3;" id="rit"><a href="https://www.rit.edu/">RIT</a></h3>
 <!-- COMP CSCI 631 (Computer Organization) -->
 <div class="card mt-3">
   <div class="p-3">
@@ -48,7 +50,7 @@ nav_order: 5
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          ECEN 689
+          CSCI 631
         </span>
       </div>
     </div>
