@@ -168,53 +168,7 @@ nav_order: 5
 <br>
 
 <!-- ACT -->
-<h3 id="self-employed">Self-employed</h3>
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 id="act" class="card-title">ACT</h5>
-        <h6 class="card-subtitle font-italic">Jan. 2021 - June 2022: Private ACT Tutor</h6>
-      </div>
-    </div>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
-            I wrote a guide to the ACT in high school and have updated it quite a bit. I also wrote about advanced math concepts on the ACT.
-          </div>
-          <div class="col-sm-3">
-            <a href="/blog/2022/guide-to-act/">Jesse's Guide to the ACT®</a>
-            <br>
-            <a href="/assets/pdf/act/Advanced_Math_Concepts_for_the_ACT.pdf">Advanced Math Concepts for the ACT®</a> (<a href="https://www.overleaf.com/read/rhmqqyskcrwp">Source</a>)
-          </div>
-        </div>
-      </li>
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
-            I created resources for my students and compile them on this website.
-          </div>
-          <div class="col-sm-3">
-            <a href="/blog/2022/tutoring-notes">Notes from lessons</a>
-            <a href="/blog/2022/math-gists">Math GitHub gists</a>
-            <a href="/blog/2022/desmos">Desmos links</a>
-          </div>
-        </div>
-      </li>
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
-            A lot of my blog post ideas came from topics I covered during my tutoring lessons. They're quite out-of-scope for the ACT because they're for a general audience, not just ACT test-takers.
-          </div>
-          <div class="col-sm-3">
-            <a href="/blog/category/act/">Blog</a> (ACT category)
-          </div>
-        </div>
-      </li>
-    </ul>
-  </div>
-</div>
+
 
 <!-- Separation before Giscus comments -->
-<br>
+
