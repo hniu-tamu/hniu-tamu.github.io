@@ -13,7 +13,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="ecen689" class="card-title"><a href="https://www.cs.unc.edu/~kakiryan/teaching/summer-210.html">Advanced Computer Vision</a></h5>
+        <h5 id="ecen689" class="card-title"><a href="https://github.com/TAMIDSpiyalong/ECEN-689">Advanced Computer Vision</a></h5>
         <h6 class="card-subtitle font-italic">Summer 2023</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -29,7 +29,7 @@ nav_order: 5
             Participants will explore topics such as image classification, transfer learning, object detection, segmentation, and real-world projects. Students will gain practical skills in implementing algorithms such as ResNet, VGG, YOLO, DETR, Mask RCNN, and UNet.
           </div>
           <div class="col-sm-3">
-            <a href="https://github.com/jesse-wei/COMP311-circuits">ECEN 689</a>
+            <a href="https://github.com/TAMIDSpiyalong/ECEN-689">ECEN 689</a>
           </div>
         </div>
       </li>
