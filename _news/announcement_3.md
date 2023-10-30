@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-10-28 14:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Dr. Niu delivered a computer vision workshop at <a href="https://tamudatathon.com/">TAMU Datathon</a> emoji! :sparkles: :smile:
