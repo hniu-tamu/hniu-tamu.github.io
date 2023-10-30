@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Niu delivered a computer vision workshop at <a href="https://tamudatathon.com/">TAMU Datathon</a> emoji! :sparkles: :smile:
+Dr. Niu delivered a computer vision workshop at <a href="https://tamudatathon.com/">TAMU Datathon</a> :sparkles: :smile:
