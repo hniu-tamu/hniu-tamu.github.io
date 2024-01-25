@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-In this project, I am using UAV-based high-resolution RGB image for cotton water stress analysis.
+In this project, I am using UAV-based high-resolution RGB image for cotton water stress analysis with convolutional neural networks.
 <!-- It's easy to include images in a flexible 3-column grid format. -->
 <!-- Make your photos 1/3, 2/3, or full width. -->
 
