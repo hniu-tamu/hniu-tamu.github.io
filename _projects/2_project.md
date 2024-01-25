@@ -7,13 +7,14 @@ importance: 2
 category: work
 ---
 
-Evapotranspiration (ET) estimation is important for precision agriculture water management. Mapping the ET temporally and spatially can identify variations in the field so that it is useful for evaluating soil moisture, and assessing crop water status. ET estimation can also benefit the water resources management and weather forecast. Here I introduce one of my previous ET papers. 
+Evapotranspiration (ET) estimation is important for precision agriculture water management. Mapping the ET temporally and spatially can identify variations in the field so that it is useful for evaluating soil moisture, and assessing crop water status. ET estimation can also benefit the water resources management and weather forecast. 
 
-The abstract is shown here:
+Limited water supplies, increasing pumping costs, variable rainfall patterns, and competition with municipalities are some of the challenges faced by agricultural communities across the state. Consequently, timely delivery and efficient use of irrigation water are critical to the sustainability and long-term stability of agricultural production in Texas. Presently, irrigation scheduling decisions based on reference evapotranspiration (ET) are limited due to the lack of reliable and readily available in-field weather data and updated crop coefficients. Additionally, information about in-field variability of crop water demand is seldom considered in the decision-making process. As a result, the efficiency of irrigation is often low, which leads to wasteful use of water in areas that are already plagued by scarce water resources.
 
-    ---
-    Evapotranspiration (ET) estimation is important agricultural research in many regions because of the water scarcity, growing population, and climate change. ET can be analyzed as the sum of evaporation from the soil and transpiration from the crops to the atmosphere. The accurate estimation and mapping of ET are necessary for crop water management. One traditional method is to use the crop coefficient (Kc) and reference ET (ETo) to estimate actual ET. With the advent of satellite technology, remote sensing images can provide spatially distributed measurements. Satellite images are used to calculate the Normalized Difference Vegetation Index (NDVI). The relation between NDVI and Kc is used to generate a new Kc. The spatial resolution of multispectral satellite images, however, is in the range of meters, which is often not enough for crops with clumped canopy structures, such as trees and vines. Moreover, the frequency of satellite overpasses is not high enough to meet the research or water management needs. The Unmanned Aerial Vehicles (UAVs) can help mitigate these spatial and temporal challenges. Compared with satellite imagery, the spatial resolution of UAV images can be as high as centimeter-level. In this study, a regression model was developed using the Deep Stochastic Configuration Networks (DeepSCNs). Actual evapotranspiration was estimated and compared with lysimeter data in an experimental pomegranate orchard. The UAV imagery provided a spatial and tree-by-tree view of ET distribution.
-    ---
+In this project, we propose the development of an Unmanned Aerial System (UAS) based crop monitoring system that calculates crop water use for irrigation scheduling and increased water use efficiency. To do this, our system will take the advantage of big data analytics and Artificial Intelligence (AI) on the UAS-derived phenotypic data and infield weather data to calculate actual crop evapotranspiration, biomass accumulation, and determine the timing and quantity of irrigation water needed.
+
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -23,12 +23,9 @@ This research was conducted at the USDA-ARS Cropping Systems Research Laboratory
 To classify the cotton water stress with CNN models, the large scale of UAV cotton image was splitted into smaller scales with ArcGIS Pro and python, which created thousands of images for each sampling date. The following figure is a demonstration of how the new dataset looks like. 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 d-flex align-items-center justify-content-center">
         {% include figure.html path="assets/img/cotton_small.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    The experimental field for cotton water stress analysis.
 </div>
 
 Our draft paper is under review. More details will be shared once the paper is published.
