@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: another without an image
-img:
+img: assets/img/hydro.png
 importance: 3
 category: work
 ---
