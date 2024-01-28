@@ -2,7 +2,7 @@
 layout: page
 title: project 5
 description: a project for image segmentation
-img: assets/img/mask.jpg
+img: assets/img/mask.png
 importance: 5
 category: work
 ---
