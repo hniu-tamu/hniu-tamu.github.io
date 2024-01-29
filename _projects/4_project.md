@@ -4,7 +4,7 @@ title: project 4
 description: a project that detects nematode
 img: assets/img/nematode.jpg
 importance: 4
-category: work
+category: completed projects
 ---
 
 Soil-borne plant-parasitic nematodes exist in many soils. Some of them can cause up to 15 to 20 percent

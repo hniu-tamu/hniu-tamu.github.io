@@ -4,7 +4,7 @@ title: project 1
 description: a project for cotton water stress analysis
 img: assets/img/cotton.jpg
 importance: 1
-category: work
+category: current projects
 ---
 
 The emergence of Unmanned Aerial Vehicles (UAVs), has brought about a revolutionary shift in agricultural monitoring. This project introduces a robust method for classifying water stress in cotton using a compact UAV platform and convolutional neural networks (CNN). Embracing smart irrigation management techniques empowers growers to irrigate with greater efficiency, promoting sustainable agricultural production. Crop evapotranspiration is a key quantity in enabling informed irrigation decisions.

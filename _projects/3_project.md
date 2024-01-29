@@ -4,7 +4,7 @@ title: project 3
 description: Predicting hydrologic intensity in Texas
 img: assets/img/hydro.png
 importance: 3
-category: work
+category: current projects
 ---
 
 There is a growing scientific and public consensus about the impact of changing climatic patterns on the intensification of extreme rainfall events. Existing storm water infrastructure systems fail to adequately respond to the changing extreme storm events since they are designed with older manuals based on historical rainfall records. Thus, there needs to be a re-examination of the frequency and intensity of rainfall projections. A comprehensive, reproducible, and consistent methodology to process the projections and develop updated Intensity-Duration-Frequency (IDF) curves is needed for infrastructure design and management.

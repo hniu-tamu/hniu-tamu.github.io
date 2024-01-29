@@ -4,7 +4,7 @@ title: project 2
 description: a project for evapotranspiration (ET) estimation 
 img: assets/img/et.jpg
 importance: 2
-category: work
+category: current projects
 ---
 
 Evapotranspiration (ET) estimation is important for precision agriculture water management. Mapping the ET temporally and spatially can identify variations in the field so that it is useful for evaluating soil moisture, and assessing crop water status. ET estimation can also benefit the water resources management and weather forecast. 
