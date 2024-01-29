@@ -4,7 +4,7 @@
     - name: Full Name
       value: Haoyu Niu
     - name: Date of Birth
-      value: 12th March
+      value: "March 12^th"
     - name: Languages
       value: English, Chinese
 
