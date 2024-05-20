@@ -25,7 +25,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This Nvidia DLI Workshop is about learning how to implement multiple AI-based approaches to solve a specific use case of identifying network intrusions for telecommunications. Prepare data and build, train, and evaluate models using XGBoost, autoencoders, and GANs. Detect anomalies in datasets with both labeled and unlabeled data. Classify anomalies into multiple categories regardless of whether the original data was labeled.
+            This NVIDIA DLI Workshop is about learning how to implement multiple AI-based approaches to solve a specific use case of identifying network intrusions for telecommunications. Prepare data and build, train, and evaluate models using XGBoost, autoencoders, and GANs. Detect anomalies in datasets with both labeled and unlabeled data. Classify anomalies into multiple categories regardless of whether the original data was labeled.
           </div>
           <div class="col-sm-3">
           </div>
