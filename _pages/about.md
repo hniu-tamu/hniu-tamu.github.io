@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page, testing
 ---
 
 Howdy! I am a Research Engineer in the [Institute of Data Science](https://tamids.tamu.edu/) at the [Texas A&M University, College Station](https://www.tamu.edu/). 
