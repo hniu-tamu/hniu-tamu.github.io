@@ -22,6 +22,6 @@ Howdy! I am a Research Engineer in the [Institute of Data Science](https://tamid
 
 My research Interests include Machine Learning, Computer vision, and Robotics. More specifically, I am interested in applying big data, deep learning, and remote sensing technology for data analysis. 
 
-<div style="width: 300px; height: 300px;">
+<!-- <div style="width: 300px; height: 300px;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FVUpG8bwwb6ouBK2FUSdzlzRbeC7WwebG2VeQjJmu8o&cl=ffffff&w=a"></script>
-</div>
+</div> -->
