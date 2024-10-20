@@ -16,7 +16,7 @@ nav_order: 5
     <div class="row">
       <div class="col-sm-10">
         <h5><a href="https://tamids.tamu.edu/event/nvidia_anomaly_spring2024/">Applications of AI for Anomaly Detection</a></h5>
-        <h6 class="card-subtitle font-italic">Spring 2024</h6>
+        <h6 class="card-subtitle font-italic">Spring, Fall 2024</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
       </div>
